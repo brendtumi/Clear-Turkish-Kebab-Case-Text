@@ -1,5 +1,7 @@
 # Clear Turkish & Kebab Case Text
 
+## [Live version on heroku](https://clear-turkish-kebab-case-text.herokuapp.com/)
+
 ## Project setup
 ```
 npm install
@@ -19,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
